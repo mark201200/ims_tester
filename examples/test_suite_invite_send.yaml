@@ -24,7 +24,7 @@ tests:
         Require: sec-agree
         P-Preferred-Identity: <sip:9076543211@ims.mnc001.mcc001.3gppnetwork.org>
         Allow: INVITE,ACK,CANCEL,BYE,UPDATE,PRACK,MESSAGE,REFER,NOTIFY,INFO,OPTIONS
-        Content-Type: application/sdpoooooooooo65466
+        Content-Type: application/fake
         Accept: application/sdp,application/3gpp-ims+xml
         P-Preferred-Service: urn:urn-7:3gpp-service.ims.icsi.mmtel
         Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.mmtel";audio
